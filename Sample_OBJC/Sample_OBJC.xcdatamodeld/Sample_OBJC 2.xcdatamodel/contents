@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19G2021" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Login_Data" representedClassName="Login_Data" syncable="YES" codeGenerationType="class">
+        <attribute name="array_Data" attributeType="Transformable" valueTransformerName="NSKeyedUnarchiveFromData"/>
+    </entity>
+    <elements>
+        <element name="Login_Data" positionX="-63" positionY="-18" width="128" height="58"/>
+    </elements>
+</model>
